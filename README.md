@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidmachado-o
-- 👀 I’m interested in learning JS, cooking and music.
-- 🌱 I’m currently learning web developement (js, css, html).
+- 👀 Interested in learning JS, cooking and music.
+- 🌱 Currently learning web developement (js, css, html).
 - 💞️ I’m looking to collaborate on real projects, with real people and real meaning.
 - 📫 How to reach me https://www.instagram.com/davemachado_/
 <!---
